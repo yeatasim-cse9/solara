@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Agency Landing Page",
+  "description": "RNO1-style modern digital agency landing page with responsive navbar and interactive hero section.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
